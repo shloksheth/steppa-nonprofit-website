@@ -1,0 +1,31 @@
+@import "./scene.css";
+@import "./refinements.css";
+@import "./chapters.css";
+@font-face {
+  font-family: "Hanken Grotesk";
+  src: url("/scene/hanken-grotesk.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Outfit";
+  src: url("/scene/outfit.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Young Serif";
+  src: url("/scene/young-serif.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "DM Mono";
+  src: url("/scene/dm-mono.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
